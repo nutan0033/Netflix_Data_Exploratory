@@ -43,6 +43,12 @@ We came to following analysis from the above exploratory data analysis that we d
 - We deduced that the maximum duration of TV Show is released in United States.
 
 
+## Technologies Used
+- **Python** – core programming language for analysis  
+- **Pandas** – for data cleaning, preprocessing, and manipulation  
+- **Matplotlib** – for creating visualizations and plots  
+- **Seaborn** – for statistical and advanced data visualizations  
+- **Jupyter Notebook / IDE** – for running, documenting, and presenting the analysis  
 
 
 ## Installation and Usage
